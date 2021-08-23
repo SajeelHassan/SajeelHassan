@@ -14,6 +14,6 @@ I actively take part in sports and extra co-curricular activities.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajeelhassan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://justinpaulhammond.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelhassan&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://justinpaulhammond.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelhassan&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://www.linkedin.com/in/sajeelhassan/)
 
 
