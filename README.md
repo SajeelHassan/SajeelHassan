@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, I'm Sajeel Hassan 👋
 
-<!--
-**SajeelHassan/SajeelHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Undergrad Student, Intern at [Tintash](https://tintash.com), JavaScript Enthusiast
 
-Here are some ideas to get you started:
+I'm highly motivated when it comes to learning new technologies or toolchains related to development trends. I spend most of my time learning and experimenting with anything that looks promising. Logical problem solving has always appealed to me and this explains my interest to learn modern technologies.
+I would love to interact with those people who can help me grow more.
+My hobbies take me to cars, aircraft, gadgets, and tech.
+I actively take part in sports and extra co-curricular activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SajeelHassan-blue)](https://www.linkedin.com/in/sajeelhassan/)
+<!-- [![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://.com) -->
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajeelhassan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://justinpaulhammond.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeelhassan&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://justinpaulhammond.com)
+
+
