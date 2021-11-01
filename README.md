@@ -1,6 +1,6 @@
 # Hey, I'm Sajeel Hassan 👋
 
-### Undergrad Student, Intern at [Tintash](https://tintash.com) , Front End Web Developer
+### Front End Web Developer
 
 I'm highly motivated when it comes to learning new technologies or toolchains related to development trends. I spend most of my time learning and experimenting with anything that looks promising. Logical problem solving has always appealed to me and this explains my interest to learn modern technologies.
 I would love to interact with those people who can help me grow more.
