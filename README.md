@@ -10,6 +10,22 @@ I actively take part in sports and extra co-curricular activities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SajeelHassan-blue)](https://www.linkedin.com/in/sajeelhassan/)
 <!-- [![Website](https://img.shields.io/badge/Website-justinpaulhammond.com-green)](https://.com) -->
+
+## Tools and Technologies I use
+
+    JavaScript (ES6 ES7)
+    HTML5
+    CSS3
+    React.js (Hooks, Redux (RTK), Router, Context-API)
+    Next.js
+    Gatsby.js
+    Boostrap 5 - react-bootstrap
+    TailwindCSS
+    Material UI
+    Node.js
+    MongoDB
+    Firebase
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajeelhassan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://www.linkedin.com/in/sajeelhassan/)
