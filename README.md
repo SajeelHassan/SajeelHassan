@@ -15,7 +15,7 @@ I actively take part in sports and extra co-curricular activities.
 
     JavaScript (ES6 ES7)
     HTML5
-    CSS3
+    CSS3 (Modules, styled-components)
     React.js (Hooks, Redux (RTK), Router, Context-API)
     Next.js
     Gatsby.js
